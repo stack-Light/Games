@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "bigdilla-6c517",
     "public": "public",
     "ignore": ["firebase.json", "**/.*"],
     "headers": [
